@@ -1,5 +1,5 @@
 # DSMF_SI_Predictor
-This contains the code needed to run the data-driven speech intelligibility predictor proposed in "Towards Robust Data-Driven Speech Intelligibility Prediction using Paradigm Specific Mapping Functions".
+This contains the code needed to run the data-driven speech intelligibility predictor proposed in "Training Data-Driven Speech Intelligibility Predictors on Heterogeneous Listening Test Data".
 The network was trained using Tensorflow 2.1 and will not work with Tensorflow 1.
 
 network.py contains the Tensorflow 2 architecture.
